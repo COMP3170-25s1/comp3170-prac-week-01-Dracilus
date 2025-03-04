@@ -57,8 +57,8 @@ public class Scene {
 	public void draw(int width, int height) {
 		
 		// get the width and height of the screen (should only change when the window is resized)
-		screenWidth = width;
-		screenHeight = height;
+		//screenWidth = width;
+		//screenHeight = height;
 		// activate the shader
 		shader.enable();
 		
